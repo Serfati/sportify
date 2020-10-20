@@ -107,6 +107,11 @@ This project uses the lombok library in some of the model classes to cut down on
 - Singleton  
 - Façade  
 - Dependency Injection  
+
+## Screenshots
+<img src=https://res.cloudinary.com/serfati/image/upload/v1603181422/Screenshot_from_2020-10-20_10-55-23_uhq5tg.png height="500" align="center"/>  
+<img src=https://res.cloudinary.com/serfati/image/upload/v1603181422/Screenshot_from_2020-10-20_10-55-39_hef0fi.png height="500" align="center"/>  
+<img src=https://res.cloudinary.com/serfati/image/upload/v1603181424/Screenshot_from_2020-10-20_10-58-04_kzyoqu.png height="500" align="center" />  
   
 ---  
   
