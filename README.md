@@ -114,18 +114,7 @@ This project uses the lombok library in some of the model classes to cut down on
 <img src=https://res.cloudinary.com/serfati/image/upload/v1603181424/Screenshot_from_2020-10-20_10-58-04_kzyoqu.png height="500" align="center" />  
   
 ---  
-  
-**_Team Members_**:  
-  
-| Name             | Username                                    | Contact Info            |  
-| ---------------- | ------------------------------------------- | ----------------------- |  
-| _Amir Gabbay_ | [AmirGabayy](https://github.com/AmirGabayy) | gabayam@post.bgu.ac.il  |  
-| _Amit Damri_ | [amitdamri](https://github.com/amitdamri)   | amitdamr@post.bgu.ac.il |  
-| _Avihai Serfati_ | [serfati](https://github.com/serfati)       | serfata@post.bgu.ac.il  |  
-| _Asaf Attias_ | [attiasas93](https://github.com/attiasas93) | assafattias93@gmail.com |  
-| _Dvir Simhon_ | [dvirsimhon](https://github.com/dvirsimhon) | dvirsim@post.bgu.ac.il  |  
-  
-> ...  
+> Author Serfati
   
 ## ⚖️ License  
   
